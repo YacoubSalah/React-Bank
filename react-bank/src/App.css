@@ -1,0 +1,23 @@
+.navigationMenu {
+  background-color: #EEF5DB;
+  position: relative;
+  border-bottom-style: solid;
+  border-color: whitesmoke;
+}
+
+.Link {
+  display: inline-block;
+  margin: .2vh;
+  padding: 1vh;
+  color: #4F6367;
+  text-decoration: none;
+}
+
+.budget {
+  display: inline-block;
+  margin: .2vh;
+  padding: 1vh;
+  color: #4F6367;
+  position: absolute;
+  right: 0px;
+}

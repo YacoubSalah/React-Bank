@@ -1,0 +1,50 @@
+.operationContainer {
+    padding: 2vh;
+    padding-bottom: 1vh;
+    width: fit-content;
+    margin: auto;
+    margin-top: 1vh;
+    margin-bottom: 1vh;
+    border-style: solid;
+    border-radius: .8vh;
+    border-color: whitesmoke;
+    background:  rgba(83, 165, 72, .35)
+}
+
+.withdrawButton , .depositButton  {
+    display: block;
+
+    margin: auto;
+    margin-top: 1vh;
+    margin-bottom: 1vh;
+
+    padding: 1vh;
+    border-radius: .5vh;
+
+    width: 95%;
+
+}
+
+.withdrawButton{
+    background-color: rgba(255, 0, 0, 0.5);
+}
+
+.depositButton {
+    background-color: rgba(0, 128, 0, 0.5);
+}
+
+.inputField {
+    display: grid;
+    grid-template-columns: 30% 60%;
+    grid-gap: 1vh;
+    justify-self: center;
+    padding: 1vh;
+    align-items: center;
+    justify-content: center;
+}
+
+input{
+    border-radius: .3vh;
+    padding: 1vh;
+    border: 0px;
+}

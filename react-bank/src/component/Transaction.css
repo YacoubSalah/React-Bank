@@ -1,0 +1,13 @@
+.transactionContainer {
+    border-style: double;
+    padding: 2%;
+    margin: 2%;
+}
+
+.income {
+    background-color: green;
+}
+
+.outcome {
+    background-color: red;
+}

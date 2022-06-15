@@ -1,0 +1,19 @@
+body {
+  background: rgb(255,255,255);
+  background: radial-gradient(circle, rgba(255,255,255,0.7038165608040091) 2%, rgba(227,192,211,0.4797269249496674) 72%);
+filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#ffffff",endColorstr="#decdf5",GradientType=1);
+background-repeat: no-repeat;
+filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#ffffff",endColorstr="#70d6ff",GradientType=1);
+
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
